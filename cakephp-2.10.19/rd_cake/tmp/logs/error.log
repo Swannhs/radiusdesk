@@ -1,0 +1,16 @@
+2021-01-12 02:05:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ProfileComponent.check_attribute_count' in 'order clause'
+Request URL: /cake2/rd_cake/profile_components/index.json?q=%2Fcake2%2Frd_cake%2Fwebroot%2Fprofile_components%2Findex.json&_dc=1610435148751&page=1&start=0&limit=100&sort=check_attribute_count&dir=ASC&token=b4c6ac81-8c7c-4802-b50a-0a6380555b50&sel_language=4_4
+Stack Trace:
+#0 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute()
+#1 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute()
+#2 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute()
+#3 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll()
+#4 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Model.php(3053): DboSource->read()
+#5 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Model/Model.php(3025): Model->_readDataSource()
+#6 /usr/share/nginx/html/cakephp-2.10.19/rd_cake/Controller/ProfileComponentsController.php(329): Model->find()
+#7 [internal function]: ProfileComponentsController->index()
+#8 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs()
+#9 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction()
+#10 /usr/share/nginx/html/cakephp-2.10.19/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke()
+#11 /usr/share/nginx/html/cakephp-2.10.19/rd_cake/webroot/index.php(92): Dispatcher->dispatch()
+#12 {main}

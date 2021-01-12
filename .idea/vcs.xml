@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Strategy/Facebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Strategy/Google" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Strategy/Twitter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Vendor/Opauth" vcs="Git" />
+  </component>
+</project>

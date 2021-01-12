@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17932d46-a114-4a0c-9359-3f0e80035598" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cake3/rd_cake/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/cake3/rd_cake/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cake3/rd_cake/src/Controller/NasController.php" beforeDir="false" afterPath="$PROJECT_DIR$/cake3/rd_cake/src/Controller/NasController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/models/myapp_cake_model_default_groups" beforeDir="false" afterPath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/models/myapp_cake_model_default_groups" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/models/myapp_cake_model_default_users" beforeDir="false" afterPath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/models/myapp_cake_model_default_users" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s" beforeDir="false" afterPath="$PROJECT_DIR$/cake3/rd_cake/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Controller/OpauthAppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Controller/OpauthAppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Strategy/Facebook/FacebookStrategy.php" beforeDir="false" afterPath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Strategy/Facebook/FacebookStrategy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Vendor/Opauth" beforeDir="false" afterPath="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth/Vendor/Opauth" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/cake2/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cakephp-2.10.19/rd_cake/Plugin/Opauth" />
+  </component>
+  <component name="ProjectId" id="1mw97YcIiG028pSV92ryGQyGzE3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cake2/rd_cake" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cake3" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cakephp-2.10.19/rd_cake" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/rd" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cake2/rd_cake" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cake3" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cakephp-2.10.19/rd_cake" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/rd" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17932d46-a114-4a0c-9359-3f0e80035598" name="Default Changelist" comment="" />
+      <created>1610393622849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610393622849</updated>
+      <workItem from="1610393625183" duration="1132000" />
+      <workItem from="1610435200092" duration="271000" />
+      <workItem from="1610473862197" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
